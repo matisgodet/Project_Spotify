@@ -1,0 +1,2 @@
+Make sure you have java.
+Download your spotify data.
